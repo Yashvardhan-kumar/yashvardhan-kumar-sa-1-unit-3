@@ -83,3 +83,9 @@ The prototype was tested with multiple users to evaluate usability and clarity. 
 
  Project Impact
 MindPatch promotes selfawareness, emotional balance, and responsible digital habits among students. The app demonstrates how AIdriven logic and humancentered design can be combined to create supportive and ethical digital wellness solutions.
+Author
+
+Name: yashvardhan kumar IDAI101-240OMH0307
+CRS: Artificial Intelligence
+Course: Critical & Creative Thinking
+School: Birla Open Minds International School
