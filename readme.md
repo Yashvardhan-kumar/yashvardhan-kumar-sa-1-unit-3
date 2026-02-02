@@ -54,8 +54,15 @@ Home Dashboard
 https://www.figma.com/proto/oHK8AJ2j8ovfZlMaUyfDXZ/SAHIGH?nodeid=01&t=s675rgiZAxdaWYFm1
 
  Screenshots            
-<img width="385" height="992" alt="Screenshot 20260202 234628" src="https://github.com/userattachments/assets/43d55c2bdfce4441af6a56f3376bbc20" />
-<img width="165" height="971" alt="Screenshot 20260202 234635" src="https://github.com/userattachments/assets/8e9ceb354a4440e7853989ece2fcb0f8" />
+## Screenshots
+
+### Home & Scan Screen
+![Home Screen](screenshots/Screenshot_2026-02-02_234635.png)
+
+### Eco Score Screen
+![Eco Score Screen](screenshots/Screenshot_2026-02-02_234628.png)
+
+
 
 
 google form link:
